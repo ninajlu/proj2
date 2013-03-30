@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  comments: MyText
+  posted: 2013-03-30 12:32:26
+  rate: 1
+  venue: 
+  meal: 
+  user: 
+
+two:
+  comments: MyText
+  posted: 2013-03-30 12:32:26
+  rate: 1
+  venue: 
+  meal: 
+  user: 

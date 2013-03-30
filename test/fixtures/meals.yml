@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  venue: 
+  start: 2013-03-30 12:33:25
+  end: 2013-03-30 12:33:25
+  type: MyText
+
+two:
+  venue: 
+  start: 2013-03-30 12:33:25
+  end: 2013-03-30 12:33:25
+  type: MyText

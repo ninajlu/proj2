@@ -1,4 +1,14 @@
 Proj1::Application.routes.draw do
+  root :to => 'venues#index'
+  resources :meals
+
+
+  resources :ratings
+
+
+  resources :venues
+
+
   resources :users
 
 
